@@ -10,8 +10,8 @@ image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
   - Containerization
   - DevOps
-  - Infrastructure As Code
   - Docker
+  - Infrastructure as Code
 url: https://docs.docker.com/engine/reference/builder/
 created: '2025-01-01'
 modified: '2026-03-16'
