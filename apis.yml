@@ -20,6 +20,8 @@ apis: []
 common:
   - type: Documentation
     url: https://docs.docker.com/engine/reference/builder/
+  - type: LLMsTxt
+    url: https://docs.docker.com/llms.txt
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
